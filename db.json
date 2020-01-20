@@ -1,16 +1,16 @@
 {
-  "todos": [
+  "animes": [
     {
       "id": 0,
-      "name": "Go to the gym"
+      "name": "Naruto"
     },
     {
       "id": 1,
-      "name": "Walk the dog"
+      "name": "Dragonball Z"
     },
     {
       "id": 2,
-      "name": "Get some pizza"
+      "name": "Saint Seya"
     }
   ]
 }
